@@ -6,7 +6,7 @@
 
 **Kelas**: Prak PAW D
 
-### Screenshot Website
+### Screenshot Website Di PC
 
 **Halaman Utama**
 
@@ -54,7 +54,7 @@
 
 <img src="ss/16.jpeg" alt="alt text" width="300">
 
-**Halaman Pencarian**
+**Halaman Pencarian Properti**
 
 <img src="ss/17.jpeg" alt="alt text" width="300">
 
@@ -71,7 +71,7 @@
 
 <img src="ss/21.jpeg" alt="alt text" width="300">
 
-**Mengkontak Pemilik Properti**
+**Mengkontak Pemilik Properti Yang Ingin Dibeli**
 
 <img src="ss/22.jpeg" alt="alt text" width="300">
 <img src="ss/23.jpeg" alt="alt text" width="300">
@@ -83,3 +83,49 @@
 
 **Halaman Kembali Ke Sign In Jika Sudah Logout**
 <img src="ss/26.jpeg" alt="alt text" width="300">
+
+### Screenshot Website Di HP
+
+**Halaman Utama**
+
+<img src="ss/27.jpeg" alt="alt text" width="300">
+
+**Halaman Sign In**
+
+<img src="ss/29.jpeg" alt="alt text" width="300">
+
+**Halaman Sign Up**
+
+<img src="ss/28.jpeg" alt="alt text" width="300">
+
+**Halaman Profile**
+
+<img src="ss/30.jpeg" alt="alt text" width="300">
+
+**Melihat Properti**
+
+<img src="ss/31.jpeg" alt="alt text" width="300">
+<img src="ss/33.jpeg" alt="alt text" width="300">
+<img src="ss/34.jpeg" alt="alt text" width="300">
+
+**Halaman Pencarian Properti**
+
+<img src="ss/35.jpeg" alt="alt text" width="300">
+
+**Halaman Membuat Listing**
+
+<img src="ss/36.jpeg" alt="alt text" width="300">
+<img src="ss/37.jpeg" alt="alt text" width="300">
+
+**Halaman Setelah Upload Properti**
+
+<img src="ss/39.jpeg" alt="alt text" width="300">
+
+**Mengkontak Pemilik Properti Yang Ingin Dibeli**
+
+<img src="ss/40.jpeg" alt="alt text" width="300">
+<img src="ss/41.jpeg" alt="alt text" width="300">
+
+**Halaman Kembali Ke Sign In Jika Sudah Logout**
+
+<img src="ss/42.jpeg" alt="alt text" width="300">
