@@ -4,7 +4,7 @@
 
 **NIM**: 1217050015
 
-**Kelas**: Prak Praktikum Pengembangan Aplikasi Web D
+**Kelas**: Praktikum Pengembangan Aplikasi Web D
 
 ### Screenshot Website Di PC
 
